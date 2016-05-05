@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/deck.png</file>
+    </qresource>
+</RCC>
